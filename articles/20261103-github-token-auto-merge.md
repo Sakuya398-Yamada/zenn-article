@@ -3,7 +3,7 @@ title: "[生成AI利用] GITHUB_TOKEN で動かした検査の「次」が起動
 emoji: "🔁"
 type: "tech"
 topics: ["githubactions", "github", "cicd", "gitleaks"]
-published: false
+published: true
 ---
 
 ## はじめに
