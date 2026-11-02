@@ -1,6 +1,6 @@
-# zenn-article-skill
+# zenn-article
 
-Zenn記事作成用のClaude Codeスキルです。
+Zenn記事のデプロイ用リポジトリ兼、Zenn記事作成用のClaude Codeスキルです。旧名は`zenn-article-skill`です。
 
 ## 機能
 
@@ -14,13 +14,13 @@ Zenn記事作成用のClaude Codeスキルです。
 ユーザースコープ（全プロジェクト共通）で使う場合:
 
 ```bash
-git clone https://github.com/Sakuya398-Yamada/zenn-article-skill.git ~/.claude/skills/zenn-article
+git clone https://github.com/Sakuya398-Yamada/zenn-article.git ~/.claude/skills/zenn-article
 ```
 
 プロジェクトスコープ（特定プロジェクトのみ）で使う場合:
 
 ```bash
-git clone https://github.com/Sakuya398-Yamada/zenn-article-skill.git .claude/skills/zenn-article
+git clone https://github.com/Sakuya398-Yamada/zenn-article.git .claude/skills/zenn-article
 ```
 
 ## 使い方
