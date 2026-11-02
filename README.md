@@ -52,6 +52,13 @@ Zennの記事を書きたい。テーマはDocker入門。
 zenn-article/
 ├── SKILL.md                     # メインスキル定義
 ├── README.md
+├── articles/                    # 作者のZennの記事
 └── references/
     └── zenn-markdown.md         # Zenn Markdown記法リファレンス
 ```
+
+## Zennとの連携
+
+このリポジトリは、作者のZennのGitHub連携の対象でもあります。`master`ブランチの`articles/`に入れた記事がZennに同期されます。
+
+公開リポジトリなので、`published: false`の下書きも誰でも読めます。公開すると決めた記事だけをpushします。
